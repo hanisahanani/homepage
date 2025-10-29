@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 
 # Set the title and icon for the page
 st.set_page_config(
